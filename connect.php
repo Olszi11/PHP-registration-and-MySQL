@@ -2,7 +2,7 @@
 
   $host = "localhost";
   $db_user = "root";
-  $db_password = "pilkanozna10";
+  $db_password = "";
   $db_name="rentaloffice";
 
 ?>
